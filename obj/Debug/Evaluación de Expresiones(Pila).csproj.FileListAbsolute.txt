@@ -1,0 +1,10 @@
+G:\UJAT\Estructura de Datos Avanzada\Evaluación de Expresiones(Pila)\obj\Debug\Evaluación de Expresiones(Pila).csprojAssemblyReference.cache
+G:\UJAT\Estructura de Datos Avanzada\Evaluación de Expresiones(Pila)\obj\Debug\Evaluación_de_Expresiones_Pila_.Form1.resources
+G:\UJAT\Estructura de Datos Avanzada\Evaluación de Expresiones(Pila)\obj\Debug\Evaluación_de_Expresiones_Pila_.Properties.Resources.resources
+G:\UJAT\Estructura de Datos Avanzada\Evaluación de Expresiones(Pila)\obj\Debug\Evaluación de Expresiones(Pila).csproj.GenerateResource.cache
+G:\UJAT\Estructura de Datos Avanzada\Evaluación de Expresiones(Pila)\obj\Debug\Evaluación de Expresiones(Pila).csproj.CoreCompileInputs.cache
+G:\UJAT\Estructura de Datos Avanzada\Evaluación de Expresiones(Pila)\bin\Debug\Evaluación de Expresiones(Pila).exe.config
+G:\UJAT\Estructura de Datos Avanzada\Evaluación de Expresiones(Pila)\bin\Debug\Evaluación de Expresiones(Pila).exe
+G:\UJAT\Estructura de Datos Avanzada\Evaluación de Expresiones(Pila)\bin\Debug\Evaluación de Expresiones(Pila).pdb
+G:\UJAT\Estructura de Datos Avanzada\Evaluación de Expresiones(Pila)\obj\Debug\Evaluación de Expresiones(Pila).exe
+G:\UJAT\Estructura de Datos Avanzada\Evaluación de Expresiones(Pila)\obj\Debug\Evaluación de Expresiones(Pila).pdb
